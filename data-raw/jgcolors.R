@@ -1,7 +1,21 @@
 ## code to prepare `jgcolors` dataset goes here
 
 
+
 jgcolors <- c(
+  
+  yellow1 = "#FFC858",
+  blue1 = "#48B0D3",
+  blue2 = "#8AE1FC",
+  blue3 = "#3189A3",
+  orange1 = "#F17300",
+  red1 = "#E91E25",
+  red2 =  "#C45C6E",
+  mint1 = "#C3E4CF",
+  green1 = "#13674D",
+  
+  
+  
   Chevalier1 = "#FACA51",
   Chevalier2 = "#D8A228",
   Chevalier3 = "#E4C321",
@@ -14,7 +28,6 @@ jgcolors <- c(
   Lake4 = "#67A9B8",
   Lumina1 = "#EDDAEB",
   Lumina2 = "#AE8CAE",
-  Mint1 = "#B3DFD7",
   Pale1 = "#F1C2A5",
   Pale2 = "#F7ECC7",
   Pine1 = "#639076",
@@ -23,7 +36,6 @@ jgcolors <- c(
   Plum1 = "#281C38",
   Rush1 = "#E81D25",
   Rush2 = "#BA2326",
-  Rush3 = "#E91E25",
   Silver1 = "#647D96",
   Silver2 = "#E1E2E1",
   Silver3 = "#C9D6D5",
