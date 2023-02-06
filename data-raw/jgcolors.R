@@ -4,15 +4,15 @@
 
 jgcolors <- c(
   
-  yellow1 = "#FFC858",
-  blue1 = "#48B0D3",
-  blue2 = "#8AE1FC",
-  blue3 = "#3189A3",
-  orange1 = "#F17300",
-  red1 = "#E91E25",
-  red2 =  "#C45C6E",
-  mint1 = "#C3E4CF",
-  green1 = "#13674D",
+  Yellow1 = "#FFC858",
+  Blue1 = "#48B0D3",
+  Blue2 = "#8AE1FC",
+  Blue3 = "#3189A3",
+  Orange1 = "#F17300",
+  Red1 = "#E91E25",
+  Red2 =  "#C45C6E",
+  Mint1 = "#C3E4CF",
+  Green1 = "#13674D",
   
   
   
